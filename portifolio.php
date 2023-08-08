@@ -1,12 +1,12 @@
 <?php
-$titulo = "Meu Portifólio";
-
+$titulo = "Meu portfólio";
 include __DIR__ . '/header.php';
 ?>
 
+<!-- Conteúdo principal do site -->
 <main>
-    <h1>Portifólio do site</h1>
-    <p>Veja meu Portifólio</p>
+    <h1>Sobre a minha pessoa</h1>
+    <p>Veja meu currículo</p>
 </main>
 
 <?php
